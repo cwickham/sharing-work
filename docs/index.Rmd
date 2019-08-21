@@ -1,0 +1,10 @@
+---
+title: "Sharing work on a webpage"
+author: "Me"
+output: html_document
+---
+
+This project ...
+
+* Read my report
+* Visit this project on GitHub
